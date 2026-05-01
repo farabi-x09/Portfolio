@@ -8,7 +8,7 @@ const projects = [
     id: 1,
     title: 'English Janala',
     desc: 'A premium language learning platform with a focus on responsive design and interactive education. Features structured lessons, vocabulary building, and a sleek user interface for all devices.',
-    image: '/Englishjanala.png',
+    image: '/english.png',
     tech: ['React', 'Node.js', 'MongoDB', 'Express', 'Firebase Auth', 'TailwindCSS', 'Framer Motion'],
     live: 'https://english-janala-by.netlify.app/', code: 'https://github.com/farabi-x09/English-janala',
     challenges: 'Optimizing the responsive layout for diverse devices (Laptop, Tablet, Mobile) and ensuring a seamless interactive experience. Implementing a real-time progress tracking system.',
