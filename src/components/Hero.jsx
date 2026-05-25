@@ -66,7 +66,7 @@ export default function Hero() {
           <a href="#projects" className="bg-gradient-to-br from-cyan to-cyan2 text-black px-7 py-[0.7rem] rounded-full font-bold no-underline transition-all duration-300 cursor-none border-none text-[0.95rem] hover:-translate-y-0.5 hover:shadow-[0_8px_30px_rgba(0,212,255,0.35)]">
             View My Work
           </a>
-          <a href="Farabi_Ahmed%20CV.pdf" download className="bg-transparent text-text px-7 py-[0.7rem] rounded-full font-semibold no-underline border-[1.5px] border-[rgba(0,212,255,0.3)] transition-all duration-300 cursor-none text-[0.95rem] flex items-center gap-2 hover:border-cyan hover:text-cyan hover:-translate-y-0.5">
+          <a href="Farabi Ahmed_Resume.pdf" download className="bg-transparent text-text px-7 py-[0.7rem] rounded-full font-semibold no-underline border-[1.5px] border-[rgba(0,212,255,0.3)] transition-all duration-300 cursor-none text-[0.95rem] flex items-center gap-2 hover:border-cyan hover:text-cyan hover:-translate-y-0.5">
             <Download size={15} />
             View Resume
           </a>

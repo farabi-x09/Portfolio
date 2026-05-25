@@ -6,14 +6,14 @@ import Image from "next/image";
 const projects = [
   {
     id: 1,
-    title: 'English Janala',
-    desc: 'A premium language learning platform with a focus on responsive design and interactive education. Features structured lessons, vocabulary building, and a sleek user interface for all devices.',
-    image: '/english.png',
-    tech: ['React', 'Node.js', 'MongoDB', 'Express', 'Firebase Auth', 'TailwindCSS', 'Framer Motion'],
-    live: 'https://english-janala-by.netlify.app/', code: 'https://github.com/farabi-x09/English-janala',
+    title: 'StudyNook',
+    desc: 'StudyNook is a full‑stack web application designed for students and library users to easily find, list, and reserve private study rooms. Whether you need a quiet zone for deep work or a collaboration bay equipped with a whiteboard and projector, StudyNook simplifies the process while ensuring a secure and conflict-free booking experience.',
+    image: '/studynook.png',
+    tech: [ 'Next.js','React', 'Node.js', 'MongoDB', 'Express', 'Better Auth', 'TailwindCSS', 'Framer Motion', 'JSON Web Tokens', 'HTTP-Only Cookies','CORS configuration'],
+    live: 'https://study-nook-pi.vercel.app/', code: 'https://github.com/farabi-x09/Study-Nook',
     challenges: 'Optimizing the responsive layout for diverse devices (Laptop, Tablet, Mobile) and ensuring a seamless interactive experience. Implementing a real-time progress tracking system.',
     improvements: 'Adding AI-driven pronunciation feedback, a community leaderboard, and downloadable offline study materials.',
-    longDesc: 'English Janala (English Window) is a state-of-the-art platform for language enthusiasts. It offers a comprehensive curriculum from basic to advanced levels, featuring "English is Easy !!" philosophy. The platform includes interactive vocabulary modules, lesson-based learning (7+ levels), and a fully responsive design that works beautifully on desktops, iPad Pros, and iPhones.'
+    longDesc: 'StudyNook is a full‑stack web application designed for students and library users to easily find, list, and reserve private study rooms. Whether you need a quiet zone for deep work or a collaboration bay equipped with a whiteboard and projector, StudyNook simplifies the process while ensuring a secure and conflict-free booking experience.'
   },
   {
     id: 2,
